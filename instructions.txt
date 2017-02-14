@@ -1,0 +1,8 @@
+1. I have gcc installed.
+2. To execute a file, run gcc -o hello hello.c
+3. A new file will be created, called hello
+4. Finally run hello
+5. That will show the results
+
+To compile C++ code with gcc
+1. Use the following: g++ -Wall hello.cpp -o hello
